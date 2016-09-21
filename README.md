@@ -4,8 +4,8 @@ School project on graphs with Bellman-Kalaba's method
 # program arguments :
 inputFile outputFile
 
-# Example of an input file :
-17 24
+# Example of an input file
+17 24\n
 0011 0017  1
 0017 0002  2
 0002 0009  0
